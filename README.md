@@ -48,6 +48,5 @@ pip3 install torch --index-url https://download.pytorch.org/whl/cu118
 
 ---
 
-## 🐍 Python Version 版本要求 
-## Happy Coding! 🦾
+# Happy Coding! 🦾
 Let's build the future of language models together. 
