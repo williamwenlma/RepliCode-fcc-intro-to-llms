@@ -46,8 +46,3 @@ Retry pip install pylzma.
 pip3 install torch --index-url https://download.pytorch.org/whl/cu118
 🔗 Get the latest PyTorch command:https://pytorch.org/get-started/locally/
 
-
-markdown
-
-## Happy Coding! 🦾
-Let's build the future of language models together. 
